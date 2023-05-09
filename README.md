@@ -7,3 +7,9 @@ Run the next command:
 ``
 wget https://raw.githubusercontent.com/osaizar/ssh-agent-loader/ssh-agent-loader.sh && mv ssh-agent-loader.sh ~/.ssh-agent-loader.sh && chmod +x ~/.ssh-agent-loader.sh
 ``
+
+Add the next line to your .bashrc or .zshrc:
+
+``
+source ~/.ssh-agent-loader.sh
+``
